@@ -1,5 +1,5 @@
 {
-  "ativo": 1,
+  "ativo": 0,
   "mensagem": "Atualizar",
-  "versao_minima": "0.2.0"
+  "versao_minima": "0.3.0"
 }
